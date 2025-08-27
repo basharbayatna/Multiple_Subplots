@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1PdOdd24kbLLiKc8ssKRieqUkdE6GuV44/view?usp=shari
 
 **Sample Data:**
 
-| Gender | Height   | Weight     |
+| Gender | Weight   | Height     |
 |--------|---------|------------|
 | Male   | 71.9705 | 211.5428   |
 | Male   | 69.1300 | 179.0063   |
