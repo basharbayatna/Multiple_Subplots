@@ -75,7 +75,8 @@ The dataset used is a **sample Weight-Height dataset**.
 ---
 ## Figures
 
-<img width="850" height="759" alt="D Subplots Comparing Males Vs  Females" src="https://github.com/user-attachments/assets/159d9e3e-aa8b-4079-b72c-de583b615f6a" />
+<img width="850" height="759" alt="ss" src="https://github.com/user-attachments/assets/2783f0c5-1d70-4cb9-bba7-96a73ddb788f" />
+
 
 
 ---
