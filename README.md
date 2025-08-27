@@ -4,7 +4,6 @@ This repository contains a practice notebook for exploring a sample dataset of h
 
 ## Dataset
 The dataset used is a **sample Weight-Height dataset**.
-https://drive.google.com/file/d/1PdOdd24kbLLiKc8ssKRieqUkdE6GuV44/view?usp=sharing
 
 **Sample Data:**
 
@@ -73,7 +72,12 @@ https://drive.google.com/file/d/1PdOdd24kbLLiKc8ssKRieqUkdE6GuV44/view?usp=shari
    - Makes cross-gender visual analysis easier.
 
 ---
+## Figures
 
+<img width="850" height="759" alt="D Subplots Comparing Males Vs  Females" src="https://github.com/user-attachments/assets/159d9e3e-aa8b-4079-b72c-de583b615f6a" />
+
+
+---
 ## Tools Used
 - Python 3  
 - Pandas  
@@ -84,7 +88,6 @@ https://drive.google.com/file/d/1PdOdd24kbLLiKc8ssKRieqUkdE6GuV44/view?usp=shari
 
 ## Notes
 - This analysis is exploratory and uses a **small sample dataset**.  
-- Future extensions could include **BMI calculation, correlation analysis, or regression plots** to better understand weight-height relationships.
 - ---
 ##  Information 
  For any Questions or Recommendations:
