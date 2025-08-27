@@ -7,13 +7,14 @@ The dataset used is a **sample Weight-Height dataset**.
 
 **Sample Data:**
 
-| Gender | Weight   | Height     |
-|--------|---------|------------|
-| Male   | 71.9705 | 211.5428   |
-| Male   | 69.1300 | 179.0063   |
-| Male   | 67.8948 | 178.1773   |
-| Male   | 70.8875 | 182.8880   |
-| Male   | 67.1215 | 167.1915   |
+| Gender | Height (in) | Weight (lb) |
+|--------|------------|------------|
+| Male   | 71.9705    | 211.5428   |
+| Male   | 69.1300    | 179.0063   |
+| Male   | 67.8948    | 178.1773   |
+| Male   | 70.8875    | 182.8880   |
+| Male   | 67.1215    | 167.1915   |
+
 
 **Number of rows:** 205+  
 **Number of columns:** 3 (Gender, Height, Weight)
