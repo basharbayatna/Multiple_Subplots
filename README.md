@@ -4,6 +4,7 @@ This repository contains a practice notebook for exploring a sample dataset of h
 
 ## Dataset
 The dataset used is a **sample Weight-Height dataset**.
+https://drive.google.com/file/d/1PdOdd24kbLLiKc8ssKRieqUkdE6GuV44/view?usp=sharing
 
 **Sample Data:**
 
