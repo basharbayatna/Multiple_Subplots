@@ -84,3 +84,10 @@ The dataset used is a **sample Weight-Height dataset**.
 ## Notes
 - This analysis is exploratory and uses a **small sample dataset**.  
 - Future extensions could include **BMI calculation, correlation analysis, or regression plots** to better understand weight-height relationships.
+- ---
+##  Information 
+ For any Questions or Recommendations:
+  - Bashar Bayatna (Mechatronics Engineer|Junior Data Scientist)
+  - Basharbayatna11@gmail.com
+
+---
